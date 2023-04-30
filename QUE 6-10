@@ -193,18 +193,3 @@ int power(int x, int n) {
         return x * power(x, n-1);
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-oops-da2/CAT QUESTIONS 6-10 at main · HRITHIKSHAM/oops-da2 · GitHub
